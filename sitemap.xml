@@ -3,64 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/techs/d3/</loc>
+    <loc>djfan.github.io/blog/techs/d3/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/designs/</loc>
+    <loc>djfan.github.io/blog/designs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>djfan.github.io/blog/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
+    <loc>djfan.github.io/blog/portfolio/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/designs/photoshop/</loc>
+    <loc>djfan.github.io/blog/designs/photoshop/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/portfolio/sample-project/</loc>
+    <loc>djfan.github.io/blog/portfolio/sample-project/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/techs/</loc>
+    <loc>djfan.github.io/blog/techs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/techs/javascript/</loc>
+    <loc>djfan.github.io/blog/techs/javascript/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>djfan.github.io/blog/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>djfan.github.io/blog/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

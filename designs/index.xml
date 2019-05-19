@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on Dongjie Fan</title>
-    <link>/designs/</link>
+    <link>djfan.github.io/blog/designs/</link>
     <description>Recent content in Designs on Dongjie Fan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Dongjie Fan</copyright>
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="/designs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="djfan.github.io/blog/designs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photoshop</title>
-      <link>/designs/photoshop/</link>
+      <link>djfan.github.io/blog/designs/photoshop/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>/designs/photoshop/</guid>
+      <guid>djfan.github.io/blog/designs/photoshop/</guid>
       <description></description>
     </item>
     
