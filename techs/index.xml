@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Dongjie Fan</title>
-    <link>djfan.github.io/blog/techs/</link>
+    <link>https://djfan.github.io/blog/techs/</link>
     <description>Recent content in Techs on Dongjie Fan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Dongjie Fan</copyright>
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="djfan.github.io/blog/techs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://djfan.github.io/blog/techs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>D3</title>
-      <link>djfan.github.io/blog/techs/d3/</link>
+      <link>https://djfan.github.io/blog/techs/d3/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>djfan.github.io/blog/techs/d3/</guid>
+      <guid>https://djfan.github.io/blog/techs/d3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>djfan.github.io/blog/techs/javascript/</link>
+      <link>https://djfan.github.io/blog/techs/javascript/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>djfan.github.io/blog/techs/javascript/</guid>
+      <guid>https://djfan.github.io/blog/techs/javascript/</guid>
       <description></description>
     </item>
     
