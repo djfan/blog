@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>POST on Dongjie Fan</title>
-    <link>https://example.com/post/</link>
+    <link>https://djfan.github.io/blog/post/</link>
     <description>Recent content in POST on Dongjie Fan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Dongjie Fan</copyright>
     
-	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://djfan.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
