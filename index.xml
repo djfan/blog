@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Dongjie Fan</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2019 20:42:03 -0400</lastBuildDate>
     
 	<atom:link href="https://djfan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo 101</title>
+      <link>https://djfan.github.io/blog/post/hugo-101/</link>
+      <pubDate>Sun, 19 May 2019 20:42:03 -0400</pubDate>
+      
+      <guid>https://djfan.github.io/blog/post/hugo-101/</guid>
+      <description>Env: MacOS
+Goal:
+Create a Hugo static website ( --theme personal-web ) Deploy the website in a Github project page https://&amp;lt;USERNAME&amp;gt;.github.io/&amp;lt;PROJECT&amp;gt;  1 Install Hugo brew install hugo 2 Create a new Hugo project hugo new site blog 3 Select &amp;amp; Download &amp;ldquo;theme&amp;rdquo; cd blog/theme git clone https://github.com/bjacquemet/personal-web cd .. hugo server -D 
+Copy &amp;ldquo;theme&amp;rdquo; stuff to Your project directory. Clean up the content in &amp;ldquo;content&amp;rdquo;, only keeping the structure.</description>
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://djfan.github.io/blog/post/1/</link>
+      <pubDate>Sun, 19 May 2019 14:13:44 -0400</pubDate>
+      
+      <guid>https://djfan.github.io/blog/post/1/</guid>
+      <description>this is my first hugo post</description>
+    </item>
     
     <item>
       <title>Sample project</title>

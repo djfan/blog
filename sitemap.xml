@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://djfan.github.io/blog/</loc>
+    <lastmod>2019-05-19T20:42:03-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://djfan.github.io/blog/post/hugo-101/</loc>
+    <lastmod>2019-05-19T20:42:03-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://djfan.github.io/blog/post/</loc>
+    <lastmod>2019-05-19T20:42:03-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://djfan.github.io/blog/post/1/</loc>
+    <lastmod>2019-05-19T14:13:44-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://djfan.github.io/blog/techs/d3/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
@@ -12,13 +40,6 @@
     <loc>https://djfan.github.io/blog/designs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://djfan.github.io/blog/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -55,12 +76,6 @@
   
   <url>
     <loc>https://djfan.github.io/blog/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://djfan.github.io/blog/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
